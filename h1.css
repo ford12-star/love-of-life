@@ -1,0 +1,20 @@
+h1{
+color:white;
+background-color:blue;
+text-align:center;
+heigth:2cm;
+line-heigth:2cm;
+border:3px solid red;
+border-radius:2px;
+
+
+
+}
+
+.subscribe-button:hover {
+background-color: green;
+
+}
+.subscribe-button:active {
+background-color: blue;
+}

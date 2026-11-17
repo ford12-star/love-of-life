@@ -1,0 +1,111 @@
+.subscribe-button{
+background-color:red;
+color:white;
+border-radius:2px;;
+heigth:36px;
+width:105px;
+border-radius:2px;
+cursor:pointer;
+margin-rigth: 30px;
+margin-left:20px;
+
+}
+
+.subscribe-button:hover {
+background-color: green;
+transition: background-color 1s;
+color: 1s;
+box-shadow: 5px 5px 2px black;
+
+
+}
+.subscribe-button:active {
+background-color: blue;
+}
+
+.join-button{
+background-color:white;
+color:blue;
+border-color: blue;
+border-style: solid;
+width: 120px;
+border-width:1px;
+border-radius:2px;
+cursor:pointer;
+margin-left: 30px;
+
+
+
+}
+.join-button:hover {
+background-color: green;
+color: white;
+transition: background-color 1s;
+color: 1s;
+box-shadow: 5px 5px 2px black;
+
+}
+.join-button:active {
+background-color: blue;
+color: white;
+}
+.tweet-button{
+background-color:blue;
+color: white;
+border: none;
+heigth:36px;
+width:70px;
+border-radius:18px;
+font-weigth: bold;
+font-size: 15px;
+cursor:pointer;
+margin-left: 30px;
+}
+.tweet-button:hover {
+background-color: green;
+transition: background-color 1s;
+color: 1s;
+box-shadow: 5px 5px 2px black;
+}
+.tweet-button:active {
+background-color: black;
+}
+
+
+.youtube-button{
+background-color:red;
+color:white;
+border-radius:2px;;
+heigth:36px;
+width:170px;
+border-radius:5px;
+
+}
+.youtube-button:hover {
+background-color: green;
+transition: background-color 1s;
+color: 1s;
+box-shadow: 5px 5px 2px black;
+}
+.youtube-button:active {
+background-color: black;
+}
+
+.facebook-button{
+background-color:red;
+color:white;
+border-radius:2px;;
+heigth:36px;
+width:170px;
+border-radius:5px;
+
+}
+.facebook-button:hover {
+background-color: green;
+transition: background-color 1s;
+color: 1s;
+box-shadow: 5px 5px 2px black;
+}
+.facebook-button:active {
+background-color: black;
+}
